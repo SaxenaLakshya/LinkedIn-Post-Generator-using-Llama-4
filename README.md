@@ -1,7 +1,7 @@
 # 🚀 LinkedIn Post Generator ✨
 
 Create engaging, AI-powered LinkedIn posts with a single click!<br>
-🤖 This project helps users generate LinkedIn-ready content using preprocessed examples and customizable prompts, leveraging LLM-based text generation. The Streamlit frontend ensures quick, interactive post creation for social media engagement. 🌟
+🤖 This project helps users generate LinkedIn-ready content using preprocessed examples and customizable prompts, leveraging LLM-based text generation. The Streamlit frontend enables quick and interactive post creation for enhanced social media engagement. 🌟
 
 ---
 
@@ -11,7 +11,7 @@ Create engaging, AI-powered LinkedIn posts with a single click!<br>
 - 🗂️ **Pattern-based dataset:** Includes 250+ sample posts mapped to interview-relevant DSA and tech patterns for realistic output.
 - 🎛️ **Flexible options:** Choose post topic, content length (Short/Medium/Long), and language (English/Hinglish).
 - 🖥️ **Rich interface:** Simple, modern Streamlit UI with instant result display.
-- 💡 **Custom prompt engineering:** Incorporates example-based few-shot prompting to guide the LLM for higher quality posts.
+- 💡 **Custom prompt engineering:** Incorporates example-based few-shot prompting to guide the LLM for higher-quality posts.
 
 ---
 
